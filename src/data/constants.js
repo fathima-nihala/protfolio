@@ -1,18 +1,16 @@
 export const Bio = {
-  name: "Rishav Chanda",
+  name: "FATHIMA NIHALA A T",
   roles: [
     "Mern Stack Developer",
         "Web Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/aswathi-48",
+  github: "https://github.com/fathima-nihala",
   resume:
   "https://drive.google.com/file/d/1N0017ZpwsQdKFTBXiVYc2y-pvWYmWzep/view?usp=drivesdk",
-    linkedin: "www.linkedin.com/in/aswathi-k312",
-  // twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/__dream__girl___12/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
+    linkedin: "https://www.linkedin.com/in/nihaaa/",
+  insta: "https://www.instagram.com/sha_ni_hala",
 };
 
 export const skills = [
