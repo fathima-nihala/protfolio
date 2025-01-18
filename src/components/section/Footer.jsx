@@ -8,6 +8,7 @@ import {
   LinkedIn,
   Twitter,
 } from "@mui/icons-material";
+import FileCopyIcon from '@mui/icons-material/FileCopy';
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -94,9 +95,9 @@ const Footer = () => {
           <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          {/* <SocialMediaIcon href={Bio.facebook} target="display">
-            <FacebookRounded />
-          </SocialMediaIcon> */}
+          <SocialMediaIcon href={Bio.resume} target="display">
+            <FileCopyIcon />
+          </SocialMediaIcon>
           {/* <SocialMediaIcon href={Bio.twitter} target="display">
             <Twitter />
             <GitHub/>
