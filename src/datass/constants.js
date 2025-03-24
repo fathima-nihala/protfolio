@@ -370,9 +370,28 @@ export const projects = [
     webapp: "https://eurovisa.co.in/",
 
   },
-  
   {
     id: 6,
+    title: "skykru",
+    description:
+      "Skykru, a technology-driven travel company began its operations in 2017 offering customized travel packages based on a premium consultancy model to corporate clients.",
+    image:
+      "https://skykru.com/wp-content/uploads/2024/05/cropped-cropped-cropped-Skykru-1-removebg-preview-1.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JQUERY",
+      "BOOTSTRAP",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://skykru.com/",
+    webapp: "https://skykru.com/",
+
+  },
+  
+  {
+    id: 7,
     title: "FACEBOOK CLONE",
     description:
       "Recreated the UI design of facebook with responsive design",
